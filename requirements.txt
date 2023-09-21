@@ -1,0 +1,14 @@
+asgiref==3.7.2
+aws-xray-sdk==2.12.0
+botocore==1.31.52
+Django==4.2.5
+django-filter==23.3
+djangorestframework==3.14.0
+jmespath==1.0.1
+python-dateutil==2.8.2
+pytz==2023.3.post1
+six==1.16.0
+sqlparse==0.4.4
+typing_extensions==4.8.0
+urllib3==1.26.16
+wrapt==1.15.0
